@@ -1,0 +1,9 @@
+.TitleTodoCounter {
+  align-content: center;
+  text-align: center
+
+}
+
+.Todo--loading {
+  opacity: 22%;
+}
